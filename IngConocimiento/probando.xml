@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Programa primero="a" segundo="b">
+<Operacion accion="Multiplicacion">
+<Datos>
+<opcion>5</opcion>
+<accion>2</accion>
+</Datos>
+</Operacion>
+</Programa>

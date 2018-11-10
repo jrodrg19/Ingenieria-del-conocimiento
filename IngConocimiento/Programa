@@ -1,0 +1,17 @@
+#include <stdio.h>
+int suma(int a,int b);
+int main (){
+	int i,j,l,k;
+	int a=a;
+	int b=b;
+int multiplicacion=0;
+for(int i=0;i<5b;i++){
+		mutilplicacion=suma(multiplicacion,a);
+}printf (%d, multiplicacion);
+return 0;
+}
+int suma (int a,int b){
+	int resultado =0;
+	resultado = a+b;
+	return resultado;
+}
